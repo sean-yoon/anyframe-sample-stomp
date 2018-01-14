@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="anyframe-sample-stomp:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="anyframe-sample-stomp.war">
-      <element id="artifact" artifact-name="anyframe-sample-stomp:war exploded" />
-    </root>
-  </artifact>
-</component>
